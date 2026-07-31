@@ -1,8 +1,7 @@
 #ifndef BOARD_H
 #define BOARD_H
 
-// Simple 9x9 Sudoku board.
-// (25x25 version will be a separate Board25 class made by your teammate)
+
 class Board {
 public:
     static const int SIZE = 9;

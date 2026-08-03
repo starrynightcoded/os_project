@@ -9,3 +9,10 @@ g++ sudoko.cpp helper_func.cpp board_25.cpp parallel_solver.cpp -pthread -o a.ou
 ```bash
 ./a.out
 ```
+
+
+## Run branch #1
+```bash
+make
+./sudoku
+```

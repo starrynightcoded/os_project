@@ -2,12 +2,12 @@
 
 ## Compile Branch #2
 ```bash
-g++ sudoko.cpp helper_func.cpp board_25.cpp parallel_solver.cpp -pthread -o a.out
+g++ sudoko.cpp helper_func.cpp board_25.cpp parallel_solver.cpp -pthread -o orca.out
 ```
 
 ## Run
 ```bash
-./a.out
+./orca.out
 ```
 
 
